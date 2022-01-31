@@ -1,6 +1,6 @@
-# 1. Two Sum
+# [38. Count and Say](https://leetcode.com/problems/count-and-say)
 
-Difficalty: **Medium**
+Difficulty: **Medium**
 
 Feels like: **Easy**
 
@@ -24,7 +24,7 @@ Given a positive integer $n$, return the $n^{th}$ term of the **count-and-say** 
 
 ## Solution idea
 
-The task is solved recursively, we pass trough each character of the given string and count how long is each number sequense adding the required numbers.
+The task is solved recursively, we pass trough each character of the given string and count how long is each number sequence adding the required numbers.
 
 ## Complexity
 
@@ -34,4 +34,4 @@ We recursively pass trough each value until $n$, so time complexity is - $O(n)$.
 
 ### Memory
 
-Even though we do not store aditional sequences, so $O(1)$. Nevertheles, it is worth to mention that the size of the result string size soars, for instance $countAndSay(50)$ result is around 800k characters long.
+Even though we do not store additional sequences, so $O(1)$. Nevertheless, it is worth to mention that the size of the result string size soars, for instance $countAndSay(50)$ result is around 800k characters long.
