@@ -1,6 +1,8 @@
-# LeetCode
+# Competitive Programming
 
 In this repository I keep some of the competetive programming tasks I have done. Tasks description, time & memory complexity and some short notes are present in readme files in each folder.
+
+## LeetCode
 
 [1. Two Sum](https://leetcode.com/problems/two-sum)
 
@@ -17,3 +19,7 @@ In this repository I keep some of the competetive programming tasks I have done.
 [626. Exchange Seats](https://leetcode.com/problems/exchange-seats)
 
 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
+
+## Hackerrank
+
+[1 week preparation](https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/)
